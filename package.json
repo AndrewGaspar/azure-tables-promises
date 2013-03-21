@@ -1,6 +1,6 @@
 {
   "name": "azure-tables-promises",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "description": "Turns the Azure Tables Node.js API into promises",
   "main": "table-promises.js",
   "scripts": {
